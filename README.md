@@ -1,2 +1,2 @@
 # Canteen_Management
-I create webs site Using Html & CSS 
+I create website Using Html & CSS 
